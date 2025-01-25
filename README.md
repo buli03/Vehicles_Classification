@@ -106,3 +106,4 @@ Trains            0.84     0.81      0.83
 
 Accuracy: 0.83
 ```
+![image](https://github.com/user-attachments/assets/6ab4f7ae-4b22-4e87-accf-755c3ba8b24e)
