@@ -64,7 +64,7 @@ evaluate_model(val_ds, model)  # Generates classification report and confusion m
 ```
 
 # Dataset Details
-### Source: Kaggle Vehicle Classification Dataset
+### Source: Kaggle Vehicle Classification Dataset: https://www.kaggle.com/datasets/mohamedmaher5/vehicle-classification
 ### Total Images: 5,587
 ### Class Distribution:
 - Auto Rickshaws: 800
