@@ -10,6 +10,9 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 - Ships
 - Trains
 
+## Example image in class Bikes:
+![image](https://github.com/user-attachments/assets/33f66602-c75f-461b-9357-48ee213a11ef)
+
 ## Key Features
 - Automated dataset download from Google Drive
 - Image preprocessing pipeline
